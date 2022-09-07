@@ -1032,7 +1032,7 @@ footer .footer-content .icons i {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 361px) {
   .section-padding {
     padding: 40px 10px;
   }
